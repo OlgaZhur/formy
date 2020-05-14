@@ -20,7 +20,9 @@ body {
 	background-color: #e6e4e4;
 	display: block;
 	position: relative;
-
+}
+.text {
+	text-align: center;
 }
 
 li {
